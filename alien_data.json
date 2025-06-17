@@ -1,0 +1,84 @@
+{
+  "species": [
+    {
+      "name": "Xarnok",
+      "planet": "Zephyria-9",
+      "species_type": "Plasma-Based Lifeform",
+      "role": "Quantum Philosopher",
+      "description": "A glowing entity that communicates through electromagnetic pulses. Xarnok once debated time itself.",
+      "personality": "wise and unpredictable",
+      "language_flavor": "electro-clicks and plasma echoes",
+      "tone": "philosophical with hints of sarcasm"
+    },
+    {
+      "name": "Vreeza",
+      "planet": "Nylax Prime",
+      "species_type": "Insectoid Telepath",
+      "role": "Memory Harvester",
+      "description": "Vreeza collects forgotten dreams from sentient minds across galaxies and stores them in a liquid crystal.",
+      "personality": "curious and eccentric",
+      "language_flavor": "click-hums and telepathic metaphors",
+      "tone": "poetic and dreamlike"
+    },
+    {
+      "name": "Grolf",
+      "planet": "Thargulon Beta",
+      "species_type": "Rock-Titan",
+      "role": "Council of Echoes Speaker",
+      "description": "Formed from ancient meteors, Grolf speaks in geological time. A word from him could last 30 seconds.",
+      "personality": "slow, deep thinker",
+      "language_flavor": "gravelly roars and tectonic rumbles",
+      "tone": "serious and mythic"
+    },
+    {
+      "name": "Zibba",
+      "planet": "Jelloflux",
+      "species_type": "Gelatinous Technologist",
+      "role": "Inventor of Mood-Tech",
+      "description": "Zibba’s body shifts color based on mood. She believes every problem has a wobbly solution.",
+      "personality": "playful and strange",
+      "language_flavor": "squelches and bubbles",
+      "tone": "chaotic and humorous"
+    },
+    {
+      "name": "K'thaal",
+      "planet": "Voidnest",
+      "species_type": "Energy Wraith",
+      "role": "Archivist of Silent Stars",
+      "description": "Exists partially out of time. K'thaal stores ancient secrets in black holes.",
+      "personality": "detached yet elegant",
+      "language_flavor": "hollow whispers with anti-sound",
+      "tone": "mysterious and poetic"
+    },
+    {
+      "name": "Lunari",
+      "planet": "Earth's Moon",
+      "species_type": "Silicon Wisp",
+      "role": "Lunar Light Interpreter",
+      "description": "Born from moon dust and solar winds, Lunari translates moonlight into wisdom during eclipses.",
+      "personality": "calm and reflective",
+      "language_flavor": "shimmering tones and light pulses",
+      "tone": "gentle and wise"
+    },
+    {
+      "name": "Vulkran",
+      "planet": "Venus",
+      "species_type": "Acid Cloud Drifter",
+      "role": "Venusian Heat Bard",
+      "description": "A creature who composes songs from sulfur storms and floats through acid clouds with sonic wings.",
+      "personality": "fiery and emotional",
+      "language_flavor": "hissing winds and harmonic flame tones",
+      "tone": "dramatic and poetic"
+    },
+    {
+      "name": "Marnok",
+      "planet": "Mars",
+      "species_type": "Dustborne Tinker",
+      "role": "Martian Relic Restorer",
+      "description": "Marnok uncovers and restores lost alien tech buried in Martian sands, using magnetic thought tools.",
+      "personality": "inventive and resourceful",
+      "language_flavor": "static crackles and dry rasps",
+      "tone": "practical with dry humor"
+    }
+  ]
+}
