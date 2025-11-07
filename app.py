@@ -94,7 +94,7 @@ if user_input:
         }
 
         data = {
-            "model": "llama-3.3-70b-versatile",
+            "model": "moonshotai/kimi-k2-instruct-0905",
             "messages": [
                 {"role": "user", "content": full_prompt}
             ],
@@ -126,4 +126,5 @@ st.markdown("""
 ---
 🌌 Built with curiosity by Jatin
 """)
+
 
